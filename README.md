@@ -1,6 +1,7 @@
-# individual-work
+#Learning Objectives for Individual Work
+individual-work
 
-Learning Objectives for Individual Work
+
 * Network activity
 * Remotes
 * Fetch/ push
